@@ -1,4 +1,4 @@
-# 2D particles' collisions
+# 2D Particles' Collisions
 ## Main Idea
 ### 1. Direct Calculation calculates all possible collsions' time (including the collisions of Balls-Walls and the collisions of Balls-Balls).
 ### 2. Choose the minimum value of them.
