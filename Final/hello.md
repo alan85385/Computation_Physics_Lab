@@ -1,1 +1,3 @@
-hello
+# Final
+## Main Idea
+### 1.
